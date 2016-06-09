@@ -1,0 +1,75 @@
+.jumbotron {
+	background-image: url("../images/stars.gif");
+	color: white;
+	padding-bottom: 20px;
+	text-align: center;
+}
+
+.thumbnail {
+	background-color: #000000;
+	color: white;
+	border: solid;
+
+}
+
+#keyC {
+	background-color: white;
+	margin-top: 300px;
+	margin-left: 500px;
+	height: 80px;
+}
+
+#keyD {
+	background-color: white;
+	height: 80px;
+}
+
+#keyE {
+	background-color: white;
+	height: 80px;
+}
+
+#keyF {
+	background-color: white;
+	height: 80px;
+}
+
+#keyG {
+	background-color: white;
+	height: 80px;
+}
+
+#keyA {
+	background-color: white;
+	height: 80px;
+}
+
+#keyB {
+	background-color: white;
+	height: 80px;
+}
+
+body {
+	background-color: #000000;
+
+}
+
+nav {
+	color: white;
+	line-height: 30px;
+	float: left;
+	height: 300px;
+	width: 100px;
+	padding: 5px;
+}
+
+button {
+	background-color: #000000;
+	border-collapse: 50px;
+
+}
+
+audio {
+	width: 1300px;
+
+}
